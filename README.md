@@ -1,4 +1,5 @@
 # Airline Operations KPI Dashboard
+<img width="955" height="528" alt="image" src="https://github.com/user-attachments/assets/4501ff25-554b-4be2-a079-e043d6ce6e3c" />
 
 A compact data-platform portfolio project built to demonstrate **operational analysis, KPI reporting, dashboard development, data quality checks, and process-oriented thinking**.
 
