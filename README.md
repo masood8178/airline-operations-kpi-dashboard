@@ -1,5 +1,7 @@
 # Airline Operations KPI Dashboard
-<img width="955" height="528" alt="image" src="https://github.com/user-attachments/assets/4501ff25-554b-4be2-a079-e043d6ce6e3c" />
+<img width="942" height="527" alt="Screenshot 2026-08-26 013148" src="https://github.com/user-attachments/assets/1fec6afd-e477-4cbb-acb1-cee1dfe35503" />
+
+
 
 A compact data-platform portfolio project built to demonstrate **operational analysis, KPI reporting, dashboard development, data quality checks, and process-oriented thinking**.
 
@@ -16,7 +18,7 @@ A compact data-platform portfolio project built to demonstrate **operational ana
 - Route-level performance table
 - Basic data-quality checks
 - Interactive filters for date, origin, and route
-
+<img width="955" height="528" alt="image" src="https://github.com/user-attachments/assets/4501ff25-554b-4be2-a079-e043d6ce6e3c" />
 ## Tech stack
 
 - Python
